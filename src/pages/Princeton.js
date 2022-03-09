@@ -9,9 +9,9 @@ const Princeton = () => {
         place_num={10}
         stars={5}
         mapLink={"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d194606.2706566907!2d-74.809584698004!3d40.348490886151886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3e6c172d059f1%3A0x3fcd49934a13d6c2!2sPrinceton%2C%20NJ!5e0!3m2!1sen!2sus!4v1646341505314!5m2!1sen!2sus"}
-        pnumb={"609-924-4141"}
+        pnumb={"(609) 924-4141"}
         address={"400 Witherspoon Street, Princeton, NJ, 08540, US"}
-        hours={"Sun	11AM–9PM Mon 11AM–9PM Tues 11AM–9PM Wed 11AM–9PM Thurs 11AM–9PM Fri 11AM–10PM Sat 11AM–10PM"}
+        hours={"Sun	12AM–11PM Mon 12AM–11PM Tues 12AM–11PM Wed 12AM–11PM Thurs 12AM–11PM Fri 12AM–11PM Sat 12AM–11PM"}
         website={"https://www.six flags.com/greatadventure"}
         faq1q={"FAQ #1"}
         faq1a={"FAQ #1 answer"}
