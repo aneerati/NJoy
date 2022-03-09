@@ -12,7 +12,7 @@ const Six = () => {
         pnumb={"(732) 928-2000"}
         address={"1 Six Flags Blvd, Jackson Township, NJ 08527"}
         hours={"Sun	11AM–9PM Mon 11AM–9PM Tues 11AM–9PM Wed 11AM–9PM Thurs 11AM–9PM Fri 11AM–10PM Sat 11AM–10PM"}
-        website={"https://www.six flags.com/great adventure"}
+        website={"https://www.six flags.com/greatadventure"}
         faq1q={"FAQ #1"}
         faq1a={"FAQ #1 answer"}
         faq2q={"FAQ #2"}
