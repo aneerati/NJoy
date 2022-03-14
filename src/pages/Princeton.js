@@ -14,7 +14,7 @@ const Princeton = () => {
         hours={"Sun	12AM–11PM Mon 12AM–11PM Tues 12AM–11PM Wed 12AM–11PM Thurs 12AM–11PM Fri 12AM–11PM Sat 12AM–11PM"}
         website={"https://www.six flags.com/greatadventure"}
         faq1q={"Where can I park in Princeton?"}
-        faq1a={"Parking prices and times vary. Payment is required at parking stations on Monday-Thursday from 9AM-8PM, Friday-Saturday from 9AM-9PM, Sunday 1PM-8PM. Several Holiday have free parking."}
+        faq1a={"Parking prices and times vary. Payment is required at parking stations on Monday-Thursday from 9AM-8PM, Friday-Saturday from 9AM-9PM, Sunday 1PM-8PM. Several Holidays have free parking."}
         faq2q={"What are the housing options?"}
         faq2a={"There are no major hotels in Princeton downtown, but several hotels are situated just a couple mintues outside."}
         faq3q={"Can I visit Princeton University"}
@@ -23,9 +23,9 @@ const Princeton = () => {
         h2={"Nassau Street"}
         h3={"Princeton Battlefield State Park"}
         about={"Princeton is a municipality that is located in Mercer County, New Jersey and sits on just over 18 square miles. Princeton is knwon for the prestigious Princeton University, which is close to Nassau Street, Princeton's main commercial street. Nassau street is filled with local shops, restaurants, gyms, cafes, and much more. The several locally owned businesses funnel off of Nassau Street to form Palmer square, which hosts several events on special occasions. Outside of Princeton's commerical scene, you'll find a multiude of neighborhoods that give Princeton its residential feel. Princeton also has a rich history dating back to 17th century. Several parks and trails follow in the footsteps of many historical figures who resided in Princeton."}
-        thingstoknow={"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+        thingstoknow={"Parking is typically filled during busy hours, so it is best to travel to Princeton without a personal vehicle. Princeton is a family friendly town that sponsors many events for children. There are open fields around nearly every block, which makes Princeton the perfect place to bring pets."}
         covid={"New Jersey no longer mandates the use of masks, but some attractions may require masks or vaccination to use their facilities, so plan accordingly."}
-        addInfo={"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."} />
+        addInfo={"Parking is free on many holidays. Roads around older parts of Princton are in poor condiition and narrow."} />
     </>
   )
 }
