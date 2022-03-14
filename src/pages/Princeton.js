@@ -22,10 +22,10 @@ const Princeton = () => {
         h1={"Princeton University"}
         h2={"Nassau Street"}
         h3={"Princeton Battlefield State Park"}
-        about={"Princeton is a municipality that is located in Mercer County, New Jersey and sits on just over 18 square miles. Princeton is knwon for the prestigious Princeton University, which is close to Nassau Street, Princeton's main commercial street. Nassau street is filled with local shops, restaurants, gyms, cafes, and much more. The several locally owned businesses funnel off of Nassau Street to form Palmer square, which hosts several events on special occasions. Outside of Princeton's commerical scene, you'll find a multiude of neighborhoods that give Princeton its residential feel. Princeton also has a rich history dating back to 17th century. Several parks and trails follow in the footsteps of many historical figures who resided in Princeton."}
-        thingstoknow={"Parking is typically filled during busy hours, so it is best to travel to Princeton without a personal vehicle. Princeton is a family friendly town that sponsors many events for children. There are open fields around nearly every block, which makes Princeton the perfect place to bring pets."}
-        covid={"New Jersey no longer mandates the use of masks, but some attractions may require masks or vaccination to use their facilities, so plan accordingly."}
-        addInfo={"Parking is free on many holidays. Roads around older parts of Princton are in poor condiition and narrow."} />
+        about={"Princeton is a municipality that is located in Mercer County, New Jersey, and sits on just over 18 square miles. Princeton is known for the prestigious Princeton University, which is close to Nassau Street, Princeton's main commercial street. Nassau street is filled with local shops, restaurants, gyms, cafes, and much more. The several locally owned businesses funnel off of Nassau Street to form Palmer square, which hosts several events on special occasions. Outside of Princeton's commercial scene, you'll find a multitude of neighborhoods that give Princeton its residential feel. Princeton also has a rich history dating back to the 17th century. Several parks and trails follow in the footsteps of many historical figures who resided in Princeton."}
+        thingstoknow={"Parking is typically filled during busy hours, so it is best to travel to Princeton without a personal vehicle. Princeton is a family-friendly town that sponsors many events for children. There are open fields around nearly every block, which makes Princeton the perfect place to bring pets."}
+        covid={"New Jersey no longer mandates the use of face coverings, but some attractions may require masks or vaccination to use their facilities, so plan accordingly."}
+        addInfo={"Parking is free on many holidays. Roads around older parts of Princeton are narrow and in poor condition."} />
     </>
   )
 }
