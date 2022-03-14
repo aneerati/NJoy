@@ -16,8 +16,8 @@ const Princeton = () => {
         faq1q={"Where can I park in Princeton?"}
         faq1a={"Parking prices and times vary. Payment is required at parking stations on Monday-Thursday from 9AM-8PM, Friday-Saturday from 9AM-9PM, Sunday 1PM-8PM. Several Holidays have free parking."}
         faq2q={"What are the housing options?"}
-        faq2a={"There are no major hotels in Princeton downtown, but several hotels are situated just a couple mintues outside."}
-        faq3q={"Can I visit Princeton University"}
+        faq2a={"There are no major hotels in Princeton downtown, but several hotels are situated just a couple of minutes outside."}
+        faq3q={"Can I visit Princeton University?"}
         faq3a={"Several areas of Princeton University are open to the public, but if you would like to see Princeton's facilities, you will have to schedule a campus tour."}
         h1={"Princeton University"}
         h2={"Nassau Street"}
